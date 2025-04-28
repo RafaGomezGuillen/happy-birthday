@@ -1,12 +1,12 @@
 import React from "react";
 
 // Import images
-import image1 from "../assets/img/img1.jpg";
-import image2 from "../assets/img/img2.jpg";
+import image1 from "../assets/img/img1.JPG";
+import image2 from "../assets/img/img2.JPG";
 import image3 from "../assets/img/img3.jpg";
-import image4 from "../assets/img/img4.jpg";
+import image4 from "../assets/img/img4.JPG";
 import image5 from "../assets/img/img5.jpg";
-import image6 from "../assets/img/img6.jpg";
+import image6 from "../assets/img/img6.JPG";
 import image7 from "../assets/img/img7.JPG";
 import image8 from "../assets/img/img8.JPG";
 
