@@ -1,22 +1,23 @@
 import React from "react";
 
 // Import images
-import image1 from "../assets/img/img1.JPG";
-import image2 from "../assets/img/img2.JPG";
+import image1 from "../assets/img/img1.jpg";
+import image2 from "../assets/img/img2.jpg";
 import image3 from "../assets/img/img3.jpg";
-import image4 from "../assets/img/img4.JPG";
+import image4 from "../assets/img/img4.jpg";
 import image5 from "../assets/img/img5.jpg";
-import image6 from "../assets/img/img6.JPG";
+import image6 from "../assets/img/img6.jpg";
 import image7 from "../assets/img/img7.JPG";
+import image8 from "../assets/img/img8.JPG";
 
 // Import Framer Motion
 import { motion } from "framer-motion";
 
 export const Landing = () => {
-  const images = [image1, image2, image3, image4, image5, image6, image7];
-  const title = "🎉 ¡Feliz cum Andrew! 🎂";
+  const images = [image1, image2, image3, image4, image5, image6, image7, image8];
+  const title = "🎉 ¡Feliz cum Chopo! 🎂";
   const wish =
-    "¡Que todos tus deseos se hagan realidad y te recuperes de toz crónica 🎁!";
+    "¡Que todos tus deseos se hagan realidad y te recuperes de tus 3 hernias 🎁!";
 
   return (
     <div className="min-h-screen bg-gradient-to-r from-pink-400 via-yellow-300 to-green-400 flex flex-col items-center justify-center overflow-hidden p-4">
